@@ -7,14 +7,14 @@
 
 |Level|Result| - |Level| Result|
 |--|--|--|--|--|
-|0| |-|8|67|
-|1| |-|9|388|
-|2| |-|10|59|
-|3| |-|11| 1226|
-|4| |-|12|40 |
-|5| |-|13|201 |
-|6| |-|14 |109 |
-|7| |-|15 |250 |
+|0|100 |-|8|67|
+|1|437 |-|9|388|
+|2|164 |-|10|59|
+|3|602 |-|11| 1226|
+|4|67 |-|12|40 |
+|5|392|-|13|201 |
+|6| 52|-|14 |109 |
+|7| 302|-|15 |250 |
 
 # **Classes**
 In this section you can find a variety of classes and their methods with a brief explanation on what the method do.
