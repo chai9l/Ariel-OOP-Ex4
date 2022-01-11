@@ -21,7 +21,7 @@
 
 -----------------------------------------------------------------------------
 # **Classes**
-In this section you can find a variety of classes and their methods with a brief explanation on what the method do.
+In this section you can find a variety of classes with a brief explanation on what the class do in general.
 |Class| Desciption|
 |--|--|
 |DiGraph| This class represents the Graph in which the game "map" is played on|
