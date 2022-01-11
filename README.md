@@ -18,6 +18,8 @@
 |6| 79|-|14 |159 |
 |7| 337|-|15 |292 |
 
+
+-----------------------------------------------------------------------------
 # **Classes**
 In this section you can find a variety of classes and their methods with a brief explanation on what the method do.
 |Class| Desciption|
@@ -29,7 +31,7 @@ In this section you can find a variety of classes and their methods with a brief
 |client|This class holds all the game's information, i.e number of agents for a specific level etc..|
 |game|This class represents the game itself.|
 
-
+-----------------------------------------------------------------------------
 ## **How to Run :** 
 **Option 1 :**
 - Download the files.
