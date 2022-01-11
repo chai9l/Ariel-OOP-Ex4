@@ -18,7 +18,8 @@
 |6| 79|-|14 |159 |
 |7| 337|-|15 |292 |
 
-
+## **UML :**
+![uml](https://i.imgur.com/kPztiUs.png)
 -----------------------------------------------------------------------------
 # **Classes**
 In this section you can find a variety of classes with a brief explanation on what the class do in general.
