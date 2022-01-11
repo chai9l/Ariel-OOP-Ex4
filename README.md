@@ -30,11 +30,33 @@ In this section you can find a variety of classes and their methods with a brief
 |game|This class represents the game itself.|
 
 
-## **How to run :** 
+## **How to Run :** 
+**Option 1 :**
 - Download the files.
-- Open the terminal and type the following:
-- Now type in the terminal : (please notice that you need to choose a number between 0-15 to pick the level wanted)
+- Open the python's terminal
+- Now type in the terminal : 
+(Please notice that you need to choose a number between 0-15 to pick the level wanted)
 ```console
 java -jar Ex4_Server_v0.0.jar 0-15
 ```
 - Hit the run button
+
+**Option 2:**
+- Download the files.
+- Open two cmd windows.
+- In window number one, type:
+
+(*Please notice that Path represents the path to the Ex4 folder on you'r computer*)
+
+(*Please notice that you need to choose a number between 0-15 to pick the level wanted*)
+
+```console
+cd Path
+Ex4_Server_v0.0.jar 0-15
+```
+![serverboot](https://i.imgur.com/lQQkETO.png)
+- In window number two, type:
+```console
+python Game.py
+```
+![gameboot](https://i.imgur.com/34kHmIX.png)
