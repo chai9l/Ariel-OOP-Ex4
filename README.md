@@ -1,4 +1,4 @@
-![enter image description here](https://e7.pngegg.com/pngimages/405/350/png-clipart-pokemon-logo-pokemon-logo.png)
+![enter image description here](https://www.pngfind.com/pngs/m/685-6856951_pokemon-gotta-catch-em-all-hd-png-download.png)
 
 **This project is the 4th assignment given in the Object Oriented course, Ariel University.**
 **The project revolves around implmenting a game which runs on a directed weighted graph**
