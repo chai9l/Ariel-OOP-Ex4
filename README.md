@@ -3,6 +3,8 @@
 **This project is the 4th assignment given in the Object Oriented course, Ariel University.**
 **The project revolves around implmenting a game which runs on a directed weighted graph**
 
+![](https://cdn.discordapp.com/attachments/811492966014255124/930213742111772702/ezgif.com-gif-maker_1.gif)
+
 ## ***Results***
 
 |Level|Result| - |Level| Result|
@@ -30,13 +32,9 @@ In this section you can find a variety of classes and their methods with a brief
 
 ## **How to run :** 
 - Download the files.
-- Copy the path to the jar file location.
-- Pick either one of the exsisting graphs inside the data file (G1, G2, G3).
-- Open cmd and type the following :
-```console
-cd src
-```
+- Open the terminal and type the following:
 - Now type in the terminal : (please notice that you need to choose a number between 0-15 to pick the level wanted)
 ```console
 java -jar Ex4_Server_v0.0.jar 0-15
 ```
+- Hit the run button
