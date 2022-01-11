@@ -3,7 +3,7 @@
 **This project is the 4th assignment given in the Object Oriented course, Ariel University.**
 **The project revolves around implmenting a game which runs on a directed weighted graph**
 
-![](https://i.imgur.com/cuIxGdE.mp4)
+![gif](https://i.imgur.com/cuIxGdE.gif)
 
 ## ***Results***
 
