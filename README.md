@@ -63,3 +63,5 @@ Ex4_Server_v0.0.jar 0-15
 python Game.py
 ```
 ![gameboot](https://i.imgur.com/34kHmIX.png)
+
+***If the game doesn't load up, please make sure that the imports inside the code are working properly, if not you might need to download the specific libary over python.***
